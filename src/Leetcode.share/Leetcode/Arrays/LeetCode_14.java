@@ -1,7 +1,5 @@
 package Arrays.Leetcode.Arrays;
-
 import java.util.*;
-
 public class LeetCode_14 {
     public String longestCommonPrefix(String[] strs) {
         if (strs.length == 0) return "";
